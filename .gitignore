@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/MathematicalOperations/.vs/MathematicalOperations/v16
+/MathematicalOperations/MathematicalOperations/obj
+/MathematicalOperations/MathematicalOperations/bin
+/MathematicalOperations/MathematicalOperations/.vs/MathematicalOperations
